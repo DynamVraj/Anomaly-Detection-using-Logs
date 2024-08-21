@@ -1,5 +1,5 @@
 
-# MegatronBERT & RoBERTa (BEST) Models
+# Anomaly Detection in Logs using RoBERTa and MegatronBERT
 
 This repository contains Jupyter Notebooks for fine-tuning and evaluating two transformer-based language models: **MegatronBERT** and **RoBERTa**. These models have been optimized for specific natural language processing (NLP) tasks, and the notebooks serve as guides for replicating the results or adapting the models for custom datasets.
 
@@ -28,8 +28,8 @@ To run the notebooks, you will need to have Python installed along with the nece
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/DynamVraj/Anomaly-Detection-using-Logs.git
+   cd Anomaly-Detection-using-Logs
    ```
 
 2. Install the required dependencies:
